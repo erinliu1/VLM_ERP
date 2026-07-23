@@ -1,0 +1,8 @@
+.env
+.venv
+cross_validation_data
+stimulus_set_hidden_states.pt
+survey_assignments
+survey_responses
+generated_qsf
+qualtrics_image_mapping.json

@@ -1,0 +1,2318 @@
+{
+  "congruent": [
+    {
+      "item_index": 9,
+      "sentence": "Realizing the time, she hurried towards the classroom.",
+      "image": "classroom",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 16,
+      "sentence": "They cheered loudly for the orchestra.",
+      "image": "orchestra",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 77,
+      "sentence": "They were making music.",
+      "image": "music",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 44,
+      "sentence": "He had a conversation with his cellmate.",
+      "image": "cellmate",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 12,
+      "sentence": "The crowd was overcome with joy.",
+      "image": "joy",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 26,
+      "sentence": "He liked to spend time with his grandma.",
+      "image": "grandma",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 47,
+      "sentence": "He was looking for a crayon.",
+      "image": "crayon",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 38,
+      "sentence": "The kids played in the backyard.",
+      "image": "backyard",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 72,
+      "sentence": "She changed into her sweats.",
+      "image": "sweats",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 10,
+      "sentence": "He realized he was out of groceries.",
+      "image": "groceries",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 49,
+      "sentence": "She was looking for her parents.",
+      "image": "parents",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 74,
+      "sentence": "She didn't want to go to kindergarten.",
+      "image": "kindergarten",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 32,
+      "sentence": "He gestured from his car cordially.",
+      "image": "cordially",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 34,
+      "sentence": "She looked over lovingly.",
+      "image": "lovingly",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 13,
+      "sentence": "She called to say she was on the road stuck in the traffic.",
+      "image": "traffic",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 52,
+      "sentence": "He was so tired he fell asleep during the quiz.",
+      "image": "quiz",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 19,
+      "sentence": "Over the course of the semester, she lost a lot of weight.",
+      "image": "weight",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 78,
+      "sentence": "They were watching the playoffs.",
+      "image": "playoffs",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 6,
+      "sentence": "Every morning, she warmly greets the students.",
+      "image": "students",
+      "average_compatibility": 2.7142857142857144,
+      "pass": "⚠️",
+      "scores": [
+        2,
+        5,
+        2,
+        3,
+        1,
+        5,
+        1
+      ]
+    },
+    {
+      "item_index": 17,
+      "sentence": "She was planning for her retirement.",
+      "image": "retirement",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 59,
+      "sentence": "He was glad he did not forget his plushy.",
+      "image": "plushy",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 60,
+      "sentence": "She was very close to her sister.",
+      "image": "sister",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 37,
+      "sentence": "The kids played in the park.",
+      "image": "park",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 75,
+      "sentence": "He was being tickled.",
+      "image": "tickled",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 64,
+      "sentence": "I rushed right over after hearing about his arrest.",
+      "image": "arrest",
+      "average_compatibility": 3.0,
+      "pass": "⚠️",
+      "scores": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "item_index": 36,
+      "sentence": "I looked around the store for mangoes.",
+      "image": "mangoes",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 76,
+      "sentence": "She was building a snowman.",
+      "image": "snowman",
+      "average_compatibility": 5.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 53,
+      "sentence": "She was experiencing an intense excitement.",
+      "image": "excitement",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 67,
+      "sentence": "She was taking a nap.",
+      "image": "nap",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 22,
+      "sentence": "Hearing his words, she was skeptical.",
+      "image": "skeptical",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 2,
+      "sentence": "She was glad she wore her sandals.",
+      "image": "sandals",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 69,
+      "sentence": "He had another round of chemotherapy.",
+      "image": "chemotherapy",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 63,
+      "sentence": "She found out about his grades.",
+      "image": "grades",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 45,
+      "sentence": "He couldn't believe he had gotten promoted.",
+      "image": "promoted",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 20,
+      "sentence": "She put on her favorite lipstick.",
+      "image": "lipstick",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 55,
+      "sentence": "She was excited to watch the film.",
+      "image": "film",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 43,
+      "sentence": "His comment made her flattered.",
+      "image": "flattered",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 5,
+      "sentence": "He was experiencing feelings of great tranquility.",
+      "image": "tranquility",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 23,
+      "sentence": "She was getting ready for her graduation.",
+      "image": "graduation",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 11,
+      "sentence": "As he got older, he felt more confident.",
+      "image": "confident",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 28,
+      "sentence": "They got along in preschool.",
+      "image": "preschool",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 12,
+      "sentence": "The crowd was overcome with outrage.",
+      "image": "outrage",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 63,
+      "sentence": "She found out about his affair.",
+      "image": "affair",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 50,
+      "sentence": "The cat leaped towards the sofa.",
+      "image": "sofa",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 67,
+      "sentence": "She was taking a selfie.",
+      "image": "selfie",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 64,
+      "sentence": "I rushed right over after hearing about his stroke.",
+      "image": "stroke",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 57,
+      "sentence": "She was looking for a drink.",
+      "image": "drink",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 25,
+      "sentence": "He was talking with his teacher.",
+      "image": "teacher",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 77,
+      "sentence": "They were making pizza.",
+      "image": "pizza",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 58,
+      "sentence": "She was getting ready to go play in the pool.",
+      "image": "pool",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 55,
+      "sentence": "She was excited to watch the sunrise.",
+      "image": "sunrise",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 22,
+      "sentence": "Hearing his words, she was reassured.",
+      "image": "reassured",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 7,
+      "sentence": "The meeting quickly reached a consensus.",
+      "image": "consensus",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 27,
+      "sentence": "He was arguing with his brother.",
+      "image": "brother",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 13,
+      "sentence": "She called to say she was on the road stuck in the snowstorm.",
+      "image": "snowstorm",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 16,
+      "sentence": "They cheered loudly for the racers.",
+      "image": "racers",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 45,
+      "sentence": "He couldn't believe he had gotten fired.",
+      "image": "fired",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 60,
+      "sentence": "She was very close to her father.",
+      "image": "father",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 4,
+      "sentence": "She handed me the menu.",
+      "image": "menu",
+      "average_compatibility": 2.5714285714285716,
+      "pass": "⚠️",
+      "scores": [
+        2,
+        3,
+        3,
+        4,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "item_index": 48,
+      "sentence": "She was looking for a waiter.",
+      "image": "waiter",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 74,
+      "sentence": "She didn't want to go to jail.",
+      "image": "jail",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 49,
+      "sentence": "She was looking for her keys.",
+      "image": "keys",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 73,
+      "sentence": "He needed to make the deadline.",
+      "image": "deadline",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 8,
+      "sentence": "At the family gathering, she told them about her engagement.",
+      "image": "engagement",
+      "average_compatibility": 3.4285714285714284,
+      "pass": "✅"
+    },
+    {
+      "item_index": 35,
+      "sentence": "He noticed she was being very playful.",
+      "image": "playful",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 0,
+      "sentence": "She needed to put everything in the library.",
+      "image": "library",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 33,
+      "sentence": "He looked at me in a way that felt accusatory.",
+      "image": "accusatory",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 20,
+      "sentence": "She put on her favorite song.",
+      "image": "song",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 52,
+      "sentence": "He was so tired he fell asleep during the commute.",
+      "image": "commute",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 69,
+      "sentence": "He had another round of golf.",
+      "image": "golf",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 17,
+      "sentence": "She was planning for her playdate.",
+      "image": "playdate",
+      "average_compatibility": 3.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 24,
+      "sentence": "They were looking at the bride.",
+      "image": "bride",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 78,
+      "sentence": "They were watching the cartoon.",
+      "image": "cartoon",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 47,
+      "sentence": "He was looking for a beer.",
+      "image": "beer",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 42,
+      "sentence": "At the party, she was shy.",
+      "image": "shy",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 61,
+      "sentence": "He had been looking forward to see the game.",
+      "image": "game",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 79,
+      "sentence": "She was struggling with alcoholism.",
+      "image": "alcoholism",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 15,
+      "sentence": "Upon arriving, she realized she forgot to bring her calculator.",
+      "image": "calculator",
+      "average_compatibility": 3.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 54,
+      "sentence": "After many months, she was excited to finally see her niece.",
+      "image": "niece",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 23,
+      "sentence": "She was getting ready for her operation.",
+      "image": "operation",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 27,
+      "sentence": "He was arguing with his mother.",
+      "image": "mother",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 35,
+      "sentence": "He noticed she was being very distant.",
+      "image": "distant",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 65,
+      "sentence": "He needed his pacifier.",
+      "image": "pacifier",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 31,
+      "sentence": "His employer gave him words of reprimand.",
+      "image": "reprimand",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 14,
+      "sentence": "He couldn't hold back his laughter.",
+      "image": "laughter",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 70,
+      "sentence": "He listened to the thunder.",
+      "image": "thunder",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 57,
+      "sentence": "She was looking for a textbook.",
+      "image": "textbook",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 39,
+      "sentence": "She held her hands solemnly.",
+      "image": "solemnly",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 8,
+      "sentence": "At the family gathering, she told them about her miscarriage.",
+      "image": "miscarriage",
+      "average_compatibility": 3.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 71,
+      "sentence": "He changed into his pajamas.",
+      "image": "pajamas",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 61,
+      "sentence": "He had been looking forward to see the sunset.",
+      "image": "sunset",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 58,
+      "sentence": "She was getting ready to go play in the snow.",
+      "image": "snow",
+      "average_compatibility": 2.7142857142857144,
+      "pass": "⚠️",
+      "scores": [
+        2,
+        5,
+        4,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "item_index": 56,
+      "sentence": "They chatted at the lecture.",
+      "image": "lecture",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 66,
+      "sentence": "They lined up for sweets.",
+      "image": "sweets",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 28,
+      "sentence": "They got along in prison.",
+      "image": "prison",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 30,
+      "sentence": "When she opened her grade, she was appalled.",
+      "image": "appalled",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 3,
+      "sentence": "She spent months preparing for the marathon.",
+      "image": "marathon",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 54,
+      "sentence": "After many months, she was excited to finally see her husband.",
+      "image": "husband",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 62,
+      "sentence": "She was came home for the holidays.",
+      "image": "holidays",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 7,
+      "sentence": "The meeting quickly reached a deadlock.",
+      "image": "deadlock",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 4,
+      "sentence": "She handed me the prescription.",
+      "image": "prescription",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 46,
+      "sentence": "She received the news about the shooting.",
+      "image": "shooting",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 51,
+      "sentence": "He struggled with obesity.",
+      "image": "obesity",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 24,
+      "sentence": "They were looking at the aftermath.",
+      "image": "aftermath",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 29,
+      "sentence": "When she opened the exam, she felt hopeful.",
+      "image": "hopeful",
+      "average_compatibility": 3.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 21,
+      "sentence": "She listened as her parents' fought.",
+      "image": "fought",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 15,
+      "sentence": "Upon arriving, she realized she forgot to bring her instrument.",
+      "image": "instrument",
+      "average_compatibility": 3.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 33,
+      "sentence": "He looked at me in a way that felt flirtatious.",
+      "image": "flirtatious",
+      "average_compatibility": 3.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 18,
+      "sentence": "He walked out of the interview relieved.",
+      "image": "relieved",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 42,
+      "sentence": "At the party, she was lively.",
+      "image": "lively",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 0,
+      "sentence": "She needed to put everything in the refrigerator.",
+      "image": "refrigerator",
+      "average_compatibility": 3.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 1,
+      "sentence": "Hearing the news, he could not hide his disappointment.",
+      "image": "disappointment",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 41,
+      "sentence": "Everyone stared because she was overdressed.",
+      "image": "overdressed",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 68,
+      "sentence": "She was changing her diaper.",
+      "image": "diaper",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 40,
+      "sentence": "She looked around but could not find her car.",
+      "image": "car",
+      "average_compatibility": 3.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 73,
+      "sentence": "He needed to make the bed.",
+      "image": "bed",
+      "average_compatibility": 4.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 48,
+      "sentence": "She was looking for a taxi.",
+      "image": "taxi",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 50,
+      "sentence": "The cat leaped towards the sky.",
+      "image": "sky",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 79,
+      "sentence": "She was struggling with academics.",
+      "image": "academics",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 25,
+      "sentence": "He was talking with his daughter.",
+      "image": "daughter",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 37,
+      "sentence": "The kids played in the playroom.",
+      "image": "playroom",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 71,
+      "sentence": "He changed into his uniform.",
+      "image": "uniform",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 39,
+      "sentence": "She held her hands excitedly.",
+      "image": "excitedly",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 21,
+      "sentence": "She listened as her parents' sang.",
+      "image": "sang",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 59,
+      "sentence": "He was glad he did not forget his passport.",
+      "image": "passport",
+      "average_compatibility": 2.857142857142857,
+      "pass": "⚠️",
+      "scores": [
+        4,
+        3,
+        4,
+        2,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "item_index": 34,
+      "sentence": "She looked over disapprovingly.",
+      "image": "disapprovingly",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 53,
+      "sentence": "She was experiencing an intense migraine.",
+      "image": "migraine",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 68,
+      "sentence": "She was changing her tire.",
+      "image": "tire",
+      "average_compatibility": 5.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 9,
+      "sentence": "Realizing the time, she hurried towards the terminal.",
+      "image": "terminal",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 46,
+      "sentence": "She received the news about the celebration.",
+      "image": "celebration",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 18,
+      "sentence": "He walked out of the interview depressed.",
+      "image": "depressed",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 2,
+      "sentence": "She was glad she wore her overcoat.",
+      "image": "overcoat",
+      "average_compatibility": 2.857142857142857,
+      "pass": "⚠️",
+      "scores": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "item_index": 26,
+      "sentence": "He liked to spend time with his roommate.",
+      "image": "roommate",
+      "average_compatibility": 4.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 75,
+      "sentence": "He was being interrogated.",
+      "image": "interrogated",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 41,
+      "sentence": "Everyone stared because she was naked.",
+      "image": "naked",
+      "average_compatibility": 3.4285714285714284,
+      "pass": "✅"
+    },
+    {
+      "item_index": 40,
+      "sentence": "She looked around but could not find her sock.",
+      "image": "sock",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 3,
+      "sentence": "She spent months preparing for the exam.",
+      "image": "exam",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 56,
+      "sentence": "They chatted at the banquet.",
+      "image": "banquet",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 5,
+      "sentence": "He was experiencing feelings of great distress.",
+      "image": "distress",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 44,
+      "sentence": "He had a conversation with his grandkid.",
+      "image": "grandkid",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 1,
+      "sentence": "Hearing the news, he could not hide his delight.",
+      "image": "delight",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 29,
+      "sentence": "When she opened the exam, she felt hopeless.",
+      "image": "hopeless",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 72,
+      "sentence": "She changed into her gown.",
+      "image": "gown",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 43,
+      "sentence": "His comment made her offended.",
+      "image": "offended",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 38,
+      "sentence": "The kids played in the bedroom.",
+      "image": "bedroom",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 62,
+      "sentence": "She was came home for the funeral.",
+      "image": "funeral",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 70,
+      "sentence": "He listened to the lullaby.",
+      "image": "lullaby",
+      "average_compatibility": 4.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 76,
+      "sentence": "She was building a sandcastle.",
+      "image": "sandcastle",
+      "average_compatibility": 3.857142857142857,
+      "pass": "✅"
+    },
+    {
+      "item_index": 10,
+      "sentence": "He realized he was out of cash.",
+      "image": "cash",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 30,
+      "sentence": "When she opened her grade, she was overjoyed.",
+      "image": "overjoyed",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 31,
+      "sentence": "His employer gave him words of encouragement.",
+      "image": "encouragement",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 36,
+      "sentence": "I looked around the store for headphones.",
+      "image": "headphones",
+      "average_compatibility": 3.7142857142857144,
+      "pass": "✅"
+    },
+    {
+      "item_index": 11,
+      "sentence": "As he got older, he felt more lonely.",
+      "image": "lonely",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 6,
+      "sentence": "Every morning, she warmly greets the patients.",
+      "image": "patients",
+      "average_compatibility": 4.428571428571429,
+      "pass": "✅"
+    },
+    {
+      "item_index": 66,
+      "sentence": "They lined up for sentencing.",
+      "image": "sentencing",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 32,
+      "sentence": "He gestured from his car angrily.",
+      "image": "angrily",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 51,
+      "sentence": "He struggled with homework.",
+      "image": "homework",
+      "average_compatibility": 4.714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 14,
+      "sentence": "He couldn't hold back his frustration.",
+      "image": "frustration",
+      "average_compatibility": 4.571428571428571,
+      "pass": "✅"
+    },
+    {
+      "item_index": 65,
+      "sentence": "He needed his coffee.",
+      "image": "coffee",
+      "average_compatibility": 4.285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 19,
+      "sentence": "Over the course of the semester, she lost a lot of friends.",
+      "image": "friends",
+      "average_compatibility": 2.857142857142857,
+      "pass": "⚠️",
+      "scores": [
+        3,
+        3,
+        3,
+        4,
+        3,
+        2,
+        2
+      ]
+    }
+  ],
+  "incongruent": [
+    {
+      "item_index": 48,
+      "sentence": "She was looking for a taxi.",
+      "image": "waiter",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 73,
+      "sentence": "He needed to make the bed.",
+      "image": "deadline",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 58,
+      "sentence": "She was getting ready to go play in the snow.",
+      "image": "pool",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 28,
+      "sentence": "They got along in prison.",
+      "image": "preschool",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 24,
+      "sentence": "They were looking at the aftermath.",
+      "image": "bride",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 39,
+      "sentence": "She held her hands solemnly.",
+      "image": "excitedly",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 41,
+      "sentence": "Everyone stared because she was overdressed.",
+      "image": "naked",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 31,
+      "sentence": "His employer gave him words of reprimand.",
+      "image": "encouragement",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 4,
+      "sentence": "She handed me the prescription.",
+      "image": "menu",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 15,
+      "sentence": "Upon arriving, she realized she forgot to bring her instrument.",
+      "image": "calculator",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 79,
+      "sentence": "She was struggling with academics.",
+      "image": "alcoholism",
+      "average_compatibility": 2.4285714285714284,
+      "pass": "✅"
+    },
+    {
+      "item_index": 1,
+      "sentence": "Hearing the news, he could not hide his disappointment.",
+      "image": "delight",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 56,
+      "sentence": "They chatted at the lecture.",
+      "image": "banquet",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 0,
+      "sentence": "She needed to put everything in the refrigerator.",
+      "image": "library",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 70,
+      "sentence": "He listened to the thunder.",
+      "image": "lullaby",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 65,
+      "sentence": "He needed his pacifier.",
+      "image": "coffee",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 46,
+      "sentence": "She received the news about the shooting.",
+      "image": "celebration",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 25,
+      "sentence": "He was talking with his daughter.",
+      "image": "teacher",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 33,
+      "sentence": "He looked at me in a way that felt flirtatious.",
+      "image": "accusatory",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 3,
+      "sentence": "She spent months preparing for the marathon.",
+      "image": "exam",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 71,
+      "sentence": "He changed into his pajamas.",
+      "image": "uniform",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 29,
+      "sentence": "When she opened the exam, she felt hopeful.",
+      "image": "hopeless",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 18,
+      "sentence": "He walked out of the interview relieved.",
+      "image": "depressed",
+      "average_compatibility": 2.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 66,
+      "sentence": "They lined up for sweets.",
+      "image": "sentencing",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 8,
+      "sentence": "At the family gathering, she told them about her miscarriage.",
+      "image": "engagement",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 35,
+      "sentence": "He noticed she was being very distant.",
+      "image": "playful",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 54,
+      "sentence": "After many months, she was excited to finally see her husband.",
+      "image": "niece",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 61,
+      "sentence": "He had been looking forward to see the sunset.",
+      "image": "game",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 62,
+      "sentence": "She was came home for the holidays.",
+      "image": "funeral",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 57,
+      "sentence": "She was looking for a textbook.",
+      "image": "drink",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 14,
+      "sentence": "He couldn't hold back his laughter.",
+      "image": "frustration",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 51,
+      "sentence": "He struggled with obesity.",
+      "image": "homework",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 7,
+      "sentence": "The meeting quickly reached a deadlock.",
+      "image": "consensus",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 42,
+      "sentence": "At the party, she was lively.",
+      "image": "shy",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 30,
+      "sentence": "When she opened her grade, she was appalled.",
+      "image": "overjoyed",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 40,
+      "sentence": "She looked around but could not find her car.",
+      "image": "sock",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 27,
+      "sentence": "He was arguing with his mother.",
+      "image": "brother",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 50,
+      "sentence": "The cat leaped towards the sky.",
+      "image": "sofa",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 21,
+      "sentence": "She listened as her parents' fought.",
+      "image": "sang",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 68,
+      "sentence": "She was changing her diaper.",
+      "image": "tire",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 38,
+      "sentence": "The kids played in the bedroom.",
+      "image": "backyard",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 44,
+      "sentence": "He had a conversation with his grandkid.",
+      "image": "cellmate",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 34,
+      "sentence": "She looked over disapprovingly.",
+      "image": "lovingly",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 31,
+      "sentence": "His employer gave him words of encouragement.",
+      "image": "reprimand",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 65,
+      "sentence": "He needed his coffee.",
+      "image": "pacifier",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 11,
+      "sentence": "As he got older, he felt more lonely.",
+      "image": "confident",
+      "average_compatibility": 2.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 18,
+      "sentence": "He walked out of the interview depressed.",
+      "image": "relieved",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 62,
+      "sentence": "She was came home for the funeral.",
+      "image": "holidays",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 70,
+      "sentence": "He listened to the lullaby.",
+      "image": "thunder",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 30,
+      "sentence": "When she opened her grade, she was overjoyed.",
+      "image": "appalled",
+      "average_compatibility": 2.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 43,
+      "sentence": "His comment made her offended.",
+      "image": "flattered",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 68,
+      "sentence": "She was changing her tire.",
+      "image": "diaper",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 9,
+      "sentence": "Realizing the time, she hurried towards the terminal.",
+      "image": "classroom",
+      "average_compatibility": 2.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 53,
+      "sentence": "She was experiencing an intense migraine.",
+      "image": "excitement",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 37,
+      "sentence": "The kids played in the playroom.",
+      "image": "park",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 76,
+      "sentence": "She was building a sandcastle.",
+      "image": "snowman",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 29,
+      "sentence": "When she opened the exam, she felt hopeless.",
+      "image": "hopeful",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 1,
+      "sentence": "Hearing the news, he could not hide his delight.",
+      "image": "disappointment",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 6,
+      "sentence": "Every morning, she warmly greets the patients.",
+      "image": "students",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 59,
+      "sentence": "He was glad he did not forget his passport.",
+      "image": "plushy",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 39,
+      "sentence": "She held her hands excitedly.",
+      "image": "solemnly",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 10,
+      "sentence": "He realized he was out of cash.",
+      "image": "groceries",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 40,
+      "sentence": "She looked around but could not find her sock.",
+      "image": "car",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 26,
+      "sentence": "He liked to spend time with his roommate.",
+      "image": "grandma",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 46,
+      "sentence": "She received the news about the celebration.",
+      "image": "shooting",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 32,
+      "sentence": "He gestured from his car angrily.",
+      "image": "cordially",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 41,
+      "sentence": "Everyone stared because she was naked.",
+      "image": "overdressed",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 3,
+      "sentence": "She spent months preparing for the exam.",
+      "image": "marathon",
+      "average_compatibility": 2.2857142857142856,
+      "pass": "✅"
+    },
+    {
+      "item_index": 36,
+      "sentence": "I looked around the store for headphones.",
+      "image": "mangoes",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 71,
+      "sentence": "He changed into his uniform.",
+      "image": "pajamas",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 75,
+      "sentence": "He was being interrogated.",
+      "image": "tickled",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 21,
+      "sentence": "She listened as her parents' sang.",
+      "image": "fought",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 2,
+      "sentence": "She was glad she wore her overcoat.",
+      "image": "sandals",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 19,
+      "sentence": "Over the course of the semester, she lost a lot of friends.",
+      "image": "weight",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 66,
+      "sentence": "They lined up for sentencing.",
+      "image": "sweets",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 72,
+      "sentence": "She changed into her gown.",
+      "image": "sweats",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 14,
+      "sentence": "He couldn't hold back his frustration.",
+      "image": "laughter",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 51,
+      "sentence": "He struggled with homework.",
+      "image": "obesity",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 56,
+      "sentence": "They chatted at the banquet.",
+      "image": "lecture",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 5,
+      "sentence": "He was experiencing feelings of great distress.",
+      "image": "tranquility",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 34,
+      "sentence": "She looked over lovingly.",
+      "image": "disapprovingly",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 26,
+      "sentence": "He liked to spend time with his grandma.",
+      "image": "roommate",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 23,
+      "sentence": "She was getting ready for her graduation.",
+      "image": "operation",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 59,
+      "sentence": "He was glad he did not forget his plushy.",
+      "image": "passport",
+      "average_compatibility": 2.142857142857143,
+      "pass": "✅"
+    },
+    {
+      "item_index": 74,
+      "sentence": "She didn't want to go to kindergarten.",
+      "image": "jail",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 32,
+      "sentence": "He gestured from his car cordially.",
+      "image": "angrily",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 2,
+      "sentence": "She was glad she wore her sandals.",
+      "image": "overcoat",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 76,
+      "sentence": "She was building a snowman.",
+      "image": "sandcastle",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 64,
+      "sentence": "I rushed right over after hearing about his arrest.",
+      "image": "stroke",
+      "average_compatibility": 2.4285714285714284,
+      "pass": "✅"
+    },
+    {
+      "item_index": 6,
+      "sentence": "Every morning, she warmly greets the students.",
+      "image": "patients",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 44,
+      "sentence": "He had a conversation with his cellmate.",
+      "image": "grandkid",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 45,
+      "sentence": "He couldn't believe he had gotten promoted.",
+      "image": "fired",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 9,
+      "sentence": "Realizing the time, she hurried towards the classroom.",
+      "image": "terminal",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 13,
+      "sentence": "She called to say she was on the road stuck in the traffic.",
+      "image": "snowstorm",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 72,
+      "sentence": "She changed into her sweats.",
+      "image": "gown",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 75,
+      "sentence": "He was being tickled.",
+      "image": "interrogated",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 11,
+      "sentence": "As he got older, he felt more confident.",
+      "image": "lonely",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 17,
+      "sentence": "She was planning for her retirement.",
+      "image": "playdate",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 47,
+      "sentence": "He was looking for a crayon.",
+      "image": "beer",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 37,
+      "sentence": "The kids played in the park.",
+      "image": "playroom",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 78,
+      "sentence": "They were watching the playoffs.",
+      "image": "cartoon",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 20,
+      "sentence": "She put on her favorite lipstick.",
+      "image": "song",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 10,
+      "sentence": "He realized he was out of groceries.",
+      "image": "cash",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 60,
+      "sentence": "She was very close to her sister.",
+      "image": "father",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 12,
+      "sentence": "The crowd was overcome with joy.",
+      "image": "outrage",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 16,
+      "sentence": "They cheered loudly for the orchestra.",
+      "image": "racers",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 55,
+      "sentence": "She was excited to watch the film.",
+      "image": "sunrise",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 77,
+      "sentence": "They were making music.",
+      "image": "pizza",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 67,
+      "sentence": "She was taking a nap.",
+      "image": "selfie",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 5,
+      "sentence": "He was experiencing feelings of great tranquility.",
+      "image": "distress",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 63,
+      "sentence": "She found out about his grades.",
+      "image": "affair",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 53,
+      "sentence": "She was experiencing an intense excitement.",
+      "image": "migraine",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 19,
+      "sentence": "Over the course of the semester, she lost a lot of weight.",
+      "image": "friends",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 49,
+      "sentence": "She was looking for her parents.",
+      "image": "keys",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 22,
+      "sentence": "Hearing his words, she was skeptical.",
+      "image": "reassured",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 52,
+      "sentence": "He was so tired he fell asleep during the quiz.",
+      "image": "commute",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 69,
+      "sentence": "He had another round of chemotherapy.",
+      "image": "golf",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 36,
+      "sentence": "I looked around the store for mangoes.",
+      "image": "headphones",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 38,
+      "sentence": "The kids played in the backyard.",
+      "image": "bedroom",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 43,
+      "sentence": "His comment made her flattered.",
+      "image": "offended",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 48,
+      "sentence": "She was looking for a waiter.",
+      "image": "taxi",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 67,
+      "sentence": "She was taking a selfie.",
+      "image": "nap",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 77,
+      "sentence": "They were making pizza.",
+      "image": "music",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 74,
+      "sentence": "She didn't want to go to jail.",
+      "image": "kindergarten",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 54,
+      "sentence": "After many months, she was excited to finally see her niece.",
+      "image": "husband",
+      "average_compatibility": 2.5714285714285716,
+      "pass": "✅"
+    },
+    {
+      "item_index": 28,
+      "sentence": "They got along in preschool.",
+      "image": "prison",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 7,
+      "sentence": "The meeting quickly reached a consensus.",
+      "image": "deadlock",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 20,
+      "sentence": "She put on her favorite song.",
+      "image": "lipstick",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 35,
+      "sentence": "He noticed she was being very playful.",
+      "image": "distant",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 50,
+      "sentence": "The cat leaped towards the sofa.",
+      "image": "sky",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 52,
+      "sentence": "He was so tired he fell asleep during the commute.",
+      "image": "quiz",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 78,
+      "sentence": "They were watching the cartoon.",
+      "image": "playoffs",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 57,
+      "sentence": "She was looking for a drink.",
+      "image": "textbook",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 49,
+      "sentence": "She was looking for her keys.",
+      "image": "parents",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 23,
+      "sentence": "She was getting ready for her operation.",
+      "image": "graduation",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 58,
+      "sentence": "She was getting ready to go play in the pool.",
+      "image": "snow",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 47,
+      "sentence": "He was looking for a beer.",
+      "image": "crayon",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 55,
+      "sentence": "She was excited to watch the sunrise.",
+      "image": "film",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 42,
+      "sentence": "At the party, she was shy.",
+      "image": "lively",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 15,
+      "sentence": "Upon arriving, she realized she forgot to bring her calculator.",
+      "image": "instrument",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 13,
+      "sentence": "She called to say she was on the road stuck in the snowstorm.",
+      "image": "traffic",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 12,
+      "sentence": "The crowd was overcome with outrage.",
+      "image": "joy",
+      "average_compatibility": 1.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 61,
+      "sentence": "He had been looking forward to see the game.",
+      "image": "sunset",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 8,
+      "sentence": "At the family gathering, she told them about her engagement.",
+      "image": "miscarriage",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 25,
+      "sentence": "He was talking with his teacher.",
+      "image": "daughter",
+      "average_compatibility": 3.142857142857143,
+      "pass": "⚠️",
+      "scores": [
+        3,
+        3,
+        1,
+        4,
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "item_index": 69,
+      "sentence": "He had another round of golf.",
+      "image": "chemotherapy",
+      "average_compatibility": 1.1428571428571428,
+      "pass": "✅"
+    },
+    {
+      "item_index": 73,
+      "sentence": "He needed to make the deadline.",
+      "image": "bed",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 27,
+      "sentence": "He was arguing with his brother.",
+      "image": "mother",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 79,
+      "sentence": "She was struggling with alcoholism.",
+      "image": "academics",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 0,
+      "sentence": "She needed to put everything in the library.",
+      "image": "refrigerator",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 63,
+      "sentence": "She found out about his affair.",
+      "image": "grades",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 4,
+      "sentence": "She handed me the menu.",
+      "image": "prescription",
+      "average_compatibility": 1.2857142857142858,
+      "pass": "✅"
+    },
+    {
+      "item_index": 24,
+      "sentence": "They were looking at the bride.",
+      "image": "aftermath",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 16,
+      "sentence": "They cheered loudly for the racers.",
+      "image": "orchestra",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 45,
+      "sentence": "He couldn't believe he had gotten fired.",
+      "image": "promoted",
+      "average_compatibility": 2.0,
+      "pass": "✅"
+    },
+    {
+      "item_index": 60,
+      "sentence": "She was very close to her father.",
+      "image": "sister",
+      "average_compatibility": 1.4285714285714286,
+      "pass": "✅"
+    },
+    {
+      "item_index": 33,
+      "sentence": "He looked at me in a way that felt accusatory.",
+      "image": "flirtatious",
+      "average_compatibility": 1.7142857142857142,
+      "pass": "✅"
+    },
+    {
+      "item_index": 17,
+      "sentence": "She was planning for her playdate.",
+      "image": "retirement",
+      "average_compatibility": 1.8571428571428572,
+      "pass": "✅"
+    },
+    {
+      "item_index": 22,
+      "sentence": "Hearing his words, she was reassured.",
+      "image": "skeptical",
+      "average_compatibility": 1.5714285714285714,
+      "pass": "✅"
+    },
+    {
+      "item_index": 64,
+      "sentence": "I rushed right over after hearing about his stroke.",
+      "image": "arrest",
+      "average_compatibility": 2.5714285714285716,
+      "pass": "✅"
+    }
+  ]
+}
