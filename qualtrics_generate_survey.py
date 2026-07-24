@@ -12,7 +12,7 @@ from typing import Any
 # CONFIGURATION
 # ============================================================
 
-TEMPLATE_QSF_PATH = Path("template.qsf")
+TEMPLATE_QSF_PATH = Path("qualtrics_templates.qsf")
 IMAGE_MAPPING_PATH = Path("qualtrics_image_mapping.json")
 ASSIGNMENTS_DIRECTORY = Path("survey_assignments")
 OUTPUT_DIRECTORY = Path("generated_qsf")

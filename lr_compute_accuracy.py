@@ -1,36 +1,33 @@
 import numpy as np
-import json
-from collections import Counter
+import pandas as pd
 
 
-PREDICTIONS_PATH = "cross_validation_data/results.json"
-OUTPUT_PATH = "cross_validation_data/layerwise_accuracy.json"
+INPUT_PATH = "cross_validation_data/results.csv"
+OUTPUT_PATH = "cross_validation_data/layerwise_accuracy.csv"
 
-
-with open(PREDICTIONS_PATH, "r", encoding="utf-8") as file:
-    predictions = json.load(file)
+results_df = pd.read_csv(INPUT_PATH)
 
 layerwise_accuracy = []
-
-def compute_accuracy(counts):
-    return counts['✅'] / (counts['✅'] + counts['❌'])
-
-for layer_data in predictions:
-    layer_index = layer_data['layer_index']
-    
-    all_predictions = layer_data['congruent'] + layer_data['incongruent']
-    all_counts = Counter(item["pass"] for item in all_predictions)
-
-    congruency_counts = Counter(item["pass"] for item in layer_data['congruent'])
-
-    incongruency_counts = Counter(item["pass"] for item in layer_data['incongruent'])
-
+layers = results_df["layer_index"].unique()
+for layer_index in layers:
+    layer_df = results_df[results_df["layer_index"] == layer_index]
+    n_correct = (layer_df["pass"] == "✅").sum()
+    n_total = len(layer_df)
+    accuracy = n_correct / n_total
+    congruent_df = layer_df[layer_df["condition"] == "congruent"]
+    n_congruent_correct = (congruent_df["pass"] == "✅").sum()
+    n_congruent_total = len(congruent_df)
+    congruent_accuracy = n_congruent_correct / n_congruent_total
+    incongruent_df = layer_df[layer_df["condition"] == "incongruent"]
+    n_incongruent_correct = (incongruent_df["pass"] == "✅").sum()
+    n_incongruent_total = len(incongruent_df)
+    incongruent_accuracy = n_incongruent_correct / n_incongruent_total
     layerwise_accuracy.append({
-        'layer_index': layer_index,
-        'all_accuracy': compute_accuracy(all_counts),
-        'congruent_accuracy': compute_accuracy(congruency_counts),
-        'incongruent_accuracy': compute_accuracy(incongruency_counts),
+        "layer_index": layer_index,
+        "all_accuracy": accuracy,
+        "congruent_accuracy": congruent_accuracy,
+        "incongruent_accuracy": incongruent_accuracy,
     })
 
-with open(OUTPUT_PATH, "w", encoding="utf-8") as file:
-    json.dump(layerwise_accuracy, file, indent=2, ensure_ascii=False)
+accuracy_df = pd.DataFrame(layerwise_accuracy)
+accuracy_df.to_csv(OUTPUT_PATH, index=False)

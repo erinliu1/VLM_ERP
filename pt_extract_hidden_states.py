@@ -123,4 +123,13 @@ for item_index, item in enumerate(sentences):
         else:
             stimulus_set_hidden_states[item_index]['incongruent'].append(save_dict)
 
-torch.save(stimulus_set_hidden_states, "stimulus_set_hidden_states.pt")
+torch.save(stimulus_set_hidden_states, "pt_all.pt")
+
+for item_index in stimulus_set_hidden_states.keys():
+    for condition in ['congruent', 'incongruent']:
+        for stimulus_item in stimulus_set_hidden_states[item_index][condition]:
+            image_word = stimulus_item['image_word']
+            hidden_states = stimulus_item['hidden_states']
+            name = f"{item_index}_{image_word}_{condition}.pt"
+            path = f"all_hidden_states/{name}"
+            torch.save(hidden_states, path)
