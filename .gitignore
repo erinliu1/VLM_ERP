@@ -1,6 +1,7 @@
 .env
 .venv
-cross_validation_data
+cross_validation_data/bootstraps
+cross_validation_data/permutations
 pt_all.pt
 survey_assignments
 survey_responses

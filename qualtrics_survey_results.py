@@ -3,8 +3,28 @@ import numpy as np
 import pandas as pd 
 from glob import glob
 
-congruent_items, incongruent_items = [], []
+OUTPUT_PATH = f"behavioral_verifications/behavior_human.csv"
 
+# average_ratings = []
+# for item_index, item in enumerate(sentences):
+#     word_a, word_b = item['word_options']
+    
+#     congruent_pairs = [(word_a, word_a), (word_b, word_b)]
+#     incongruent_pairs = [(word_a, word_b), (word_b, word_a)]
+
+#     for image_word, final_word in congruent_pairs + incongruent_pairs:
+#         is_congruent = (image_word == final_word)
+
+#         average_rating = # ##
+#         average_ratings.append({
+#             "item_index": item_index,
+#             "image_word": image_word,
+#             "condition": "congruent" if is_congruent else "incongruent",
+#             "average_rating": average_rating,
+#         })
+
+
+all_survey_results = []
 for survey_ID in ['A', 'B', 'C', 'D']:
     survey_json_path = f"survey_assignments/survey_{survey_ID}.json"
     survey_response_path = glob(f"survey_responses/Survey {survey_ID}_*.csv")[0]
@@ -23,32 +43,14 @@ for survey_ID in ['A', 'B', 'C', 'D']:
         sentence = question['sentence']
         vals = survey_response[f'S{survey_ID}_Q{question_id}']
         values = [int(v[0]) for v in vals if v[0] in ['1','2','3','4','5']]
-        average_compatibility = np.mean(values)
-        item_results = {
+        average_rating = np.mean(values)
+        all_survey_results.append({
             'item_index': item_index,
-            'sentence': sentence,
-            'image': image_word,
-            'average_compatibility': average_compatibility
-        }
-        if congruency == 'congruent':
-            if average_compatibility > 3:
-                item_results['pass'] = '✅'
-            else:
-                item_results['pass'] = '⚠️'
-                item_results['scores'] = values
-            congruent_items.append(item_results)
-        elif congruency == 'incongruent':
-            if average_compatibility <= 3:
-                item_results['pass'] = '✅'
-            else:
-                item_results['pass'] = '⚠️'
-                item_results['scores'] = values
-            incongruent_items.append(item_results)
-        
-survey_results = {
-    'congruent': congruent_items,
-    'incongruent': incongruent_items
-}
+            'image_word': image_word,
+            'condition': congruency,
+            'average_rating': average_rating
+        })
 
-with open('qualtrics_results.json', 'w') as f:
-    json.dump(survey_results, f, indent=2, ensure_ascii=False)
+df = pd.DataFrame(all_survey_results)
+df = df.sort_values(by=['item_index', 'condition', 'image_word']).reset_index(drop=True)
+df.to_csv(OUTPUT_PATH, index=False)

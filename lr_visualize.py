@@ -124,8 +124,8 @@ def plot_accuracy_with_stats(metric, title, color):
     plt.ylim(0.45, 1.0)
 
     plt.legend(
-        bbox_to_anchor=(1.05, 1),
-        loc="upper left"
+        loc="lower right",
+        framealpha=0.9,
     )
 
     plt.grid(True)
